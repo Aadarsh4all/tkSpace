@@ -1,2 +1,2 @@
-bardapi==0.1.30
-ttkbootstrap==1.10.1
+bardapi
+ttkbootstrap
